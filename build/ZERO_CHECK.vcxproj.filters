@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\trbec\Documents\WordleSolver\build\CMakeFiles\9f169897ee33fa63f8480e0ef16ce146\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{90C87E47-B694-300B-BEE6-F03907831F9C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

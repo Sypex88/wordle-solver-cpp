@@ -1,0 +1,10 @@
+^C:\USERS\TRBEC\DOCUMENTS\WORDLESOLVER\BUILD\CMAKEFILES\9F169897EE33FA63F8480E0EF16CE146\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/trbec/Documents/WordleSolver -BC:/Users/trbec/Documents/WordleSolver/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/trbec/Documents/WordleSolver/build/WordleSolver.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
