@@ -1,0 +1,6 @@
+# Ignoriere Build-Ordner
+build/
+out/
+*.exe
+*.obj
+*.pdb
